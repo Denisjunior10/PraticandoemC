@@ -7,7 +7,7 @@ int main() {
 
     int numant, numsuc, numero;
 
-    printf("Digite um número: %d");
+    printf("Digite um número:");
     scanf("%d", &numero);
     
     numsuc = numero + 1;
